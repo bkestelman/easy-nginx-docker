@@ -8,7 +8,7 @@ You need to have Docker installed
 ```
 git clone https://github.com/bkestelman/easy-nginx-docker
 ```
-Copy your website files (index.html, css, js, etc.) into easy-nginx-docker/
+Copy your website files (index.html, css, js, etc.) into easy-nginx-docker/, then run:
 ```
 bash run.sh tag [port] 
 ```
