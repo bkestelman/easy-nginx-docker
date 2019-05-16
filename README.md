@@ -10,7 +10,7 @@ git clone https://github.com/bkestelman/easy-nginx-docker
 ```
 Copy your website files (index.html, css, js, etc.) into easy-nginx-docker/, then run:
 ```
-bash run.sh tag [port] 
+bash run.sh tag [port] # replace 'tag' with whatever tag you want for the docker image 
 ```
 
 Modifying your site files in easy-nginx-docker/ will change your site in real time. 
