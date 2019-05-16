@@ -15,9 +15,9 @@ bash run.sh tag [port] # replace 'tag' with whatever tag you want for the docker
 
 Modifying your site files in easy-nginx-docker/ will change your site in real time. 
 
-You can multiple containers on different ports using the same tag. 
+You can run multiple containers on different ports using the same tag. 
 
-To run different versions of your site, clone easy-nginx-docker again (rename the first one). 
+To run different versions of your site at the same time, clone easy-nginx-docker again (rename the first one) copy a different version of your site there, and run the script as above. 
 
 ## Feedback
 Please open an issue to report a bug or request a feature. The goal of this project is to make setting up a site as quick and easy as possible!
